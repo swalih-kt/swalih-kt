@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Mohammed Swalih KT</h1>
-<h3 align="center">Bioinformatician | NGS Data Analyst | Web-Based Data Tool Developer</h3>
+<h3 align="center">Bioinformatician | NGS Data Analyst | Web-Based Database Developer</h3>
 
 ---
 
