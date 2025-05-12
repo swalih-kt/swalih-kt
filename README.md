@@ -31,7 +31,7 @@
 ### 📊 My Focus Areas
 
 - 📌 **NGS Pipeline Development** using GATK, STAR, HISAT2, etc.
-- 📈 **Statistical Analysis** and **data visualization** in R (ggplot2, Shiny)
+- 📈 **Statistical Analysis** and **data visualization** in R
 - 🧰 **Custom Tool Building** for variant annotation, CNV/structural variation
 - 🌐 **Web Development** for genomics dashboards using Flask, Dash, or JS
 - 🔬 Clinical Genomics, Cancer Genomics, ASD & Neurological disorder studies
