@@ -61,7 +61,7 @@
 ### 📫 Let's Connect!
 
 - 📧 [Your Email]
-- 💼 [LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohammed-swalih-kt-142b2a227/)
 - 🧪 [Google Scholar / ResearchGate](#)
 - 🌐 [Portfolio Website](#)
 
