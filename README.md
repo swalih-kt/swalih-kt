@@ -59,12 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swalih-kt&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swalih-kt&theme=radical" alt="GitHub Streak" />
-</p>
-
-
-
----
-
-⭐️ *"Exploring genomes, one variant at a time."*  
