@@ -36,15 +36,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|:--------|:-------------|:-----------|
-| 🔬 **ASD CNV Analysis Pipeline** | GATK-based pipeline for detecting CNVs from WES data | Python, Bash, R, GATK |
-| 🌐 **Omics Dashboard** | Interactive dashboard for transcriptomic and proteomic data | Flask, Dash, Plotly |
-| 🧪 **Variant Annotation Toolkit** | Automated annotation using ANNOVAR & custom filters | Python, Shell, R |
-
----
 
 ### 📫 Let's Connect
 
