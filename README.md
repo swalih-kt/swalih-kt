@@ -39,9 +39,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** [mohammedswalihkt@gmail.com](mailto:mohammedswalihkt@gmail.com)  
+- 📧 **Email:** [swalihkt18751875@gmail.com](mailto:swalihkt18751875@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/mohammed-swalih-kt-142b2a227](https://www.linkedin.com/in/mohammed-swalih-kt-142b2a227/)  
-- 🧪 **ResearchGate:** [researchgate.net/profile/Mohammed-Swalih-KT](https://www.researchgate.net/profile/Mohammed-Swalih-KT)  
 - 🌐 **Portfolio:** *Coming Soon!*  
 
 ---
